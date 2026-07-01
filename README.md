@@ -1,3 +1,4 @@
+<img width="128" height="128" alt="awesome" src="https://github.com/user-attachments/assets/273ea644-d542-48eb-8c60-7dd8b3fca03b" />
 ## hi there 
 
 hey, i’m omari and I just started my coding career.
