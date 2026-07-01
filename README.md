@@ -3,6 +3,7 @@
 👋 Hello, I’m Omari, I am a beginner Front-End Developer and I just started my coding career.
 I’ve made up my mind to learn the ins and outs of creating well-functioning websites. 
 For now, I’m just beginning with the basics by learning the basics of the web: HTML and CSS.
+
 🚀 My Coding Journey:
 Month 1: HTML, CSS & Responsive Web Design
 Month 2: JavaScript & Programming Logic
