@@ -1,6 +1,6 @@
-## Hi there 👋
+## hi there 
 
-Hey, I’m Omari and I just started my coding career.
+hey, i’m omari and I just started my coding career.
 I’ve made up my mind to learn the ins and outs of creating well-functioning websites. 
 For now, I’m just beginning with the basics by learning the basics of the web: HTML and CSS.
 
